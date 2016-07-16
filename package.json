@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Cobalt2 theme for Hyperterm, based on Wes Bos' iTerm2 theme",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "hyperterm",
     "theme"
